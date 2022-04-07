@@ -29,7 +29,7 @@ def image():
                     </head>
                     <body>
                         <h1>Жди нас Марс!</h1>
-                        <img src="{url_for('static', filename='MARS.png')}" 
+                        <img src="{url_for('static', filename='static/img/MARS.png')}" 
                        alt="картинка">
                     </body>   
                 </html>'''
